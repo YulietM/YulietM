@@ -14,9 +14,9 @@
 
 <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Musiquita en Spotify ❤️🎶
+### Escuchando en Spotify ahora ❤️🎶
 
-[![Spotify](https://spotify-play-k2x2ug9io-yulietm.vercel.app/api/spotify)](https://open.spotify.com/user/YulietM)
+<img src="https://spotify-now-playing-bbqjojmhd-yulietm.vercel.app/api">
   
 ---
 
