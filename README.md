@@ -16,11 +16,10 @@
 
 ### Musiquita en Spotify ❤️🎶
 
-[![Spotify](https://spotify-play-k2x2ug9io-yulietm.vercel.app/api/spotify)](https://open.spotify.com/user/Yuli)
+[![Spotify](https://spotify-play-k2x2ug9io-yulietm.vercel.app/api/spotify)](https://open.spotify.com/user/YulietM)
   
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contacta conmigo 📲
 
