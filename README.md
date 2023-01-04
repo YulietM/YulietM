@@ -6,7 +6,7 @@
 ## Ing en Sistemas  
 
 - 👨‍💻 Actualmente estoy entudiando 7° Ing en Sistemas
-- 📚 Actualmente sigo aprendiendo todo sobre las tecnologias Frontend y Backend 😅
+- 📚 todos los dias sigo aprendiendo sobre las tecnologias Frontend y Backend 😅
 - 💪🏼 Nuevos objetivos: aprender mas y no dejar de desarrollar ideas.
 - ⚡ Dato curioso: me encanta escuchar musica y ver documentales 🎼.
 
