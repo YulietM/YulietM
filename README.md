@@ -1,6 +1,7 @@
 # Hola, soy Yuliet <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" width="auto" height="205px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0YmRjOWY4ZjdiYWJkMWFmM2FiZmM2NzJiM2NlM2QzYjg0MDJhOCZjdD1n/ApDBoGtAj4TIuFZ7Hr/giphy.gif"/>
+<img align="right" alt="GIF" width="auto" height="203px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0YmRjOWY4ZjdiYWJkMWFmM2FiZmM2NzJiM2NlM2QzYjg0MDJhOCZjdD1n/ApDBoGtAj4TIuFZ7Hr/giphy.gif"/>
+
 
 ## Ing en Sistemas  
 
@@ -11,14 +12,9 @@
 
 ---
 
-
-
 <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-
-
 ### Escuchando en Spotify ahora ❤️🎶
-
 
 
 <img src="https://spotify-now-playing-bbqjojmhd-yulietm.vercel.app/api">
@@ -31,7 +27,6 @@
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
-
 
 <br />
 
@@ -55,6 +50,7 @@
 <br/>
 
 ---
+
 
   <h2 align="center"> Github estadisticas 📈 </h2>
   
