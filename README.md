@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" width="auto" height="220px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0YmRjOWY4ZjdiYWJkMWFmM2FiZmM2NzJiM2NlM2QzYjg0MDJhOCZjdD1n/ApDBoGtAj4TIuFZ7Hr/giphy.gif"/>
 
-
 ## Ing en Sistemas  
 
 - 👨‍💻 Actualmente estoy entudiando 7° Ing en Sistemas
@@ -10,9 +9,7 @@
 - 💪🏼 Nuevos objetivos: aprender mas y no dejar de desarrollar ideas.
 - ⚡ Dato curioso: me encanta escuchar musica y ver documentales 🎼.
 
-
 ---
-
 
 <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
