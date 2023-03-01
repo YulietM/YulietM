@@ -1,6 +1,6 @@
 # Hola, soy Yuliet <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" width="auto" height="220px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0YmRjOWY4ZjdiYWJkMWFmM2FiZmM2NzJiM2NlM2QzYjg0MDJhOCZjdD1n/ApDBoGtAj4TIuFZ7Hr/giphy.gif"/>
+<img align="right" alt="GIF" width="auto" height="205px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0YmRjOWY4ZjdiYWJkMWFmM2FiZmM2NzJiM2NlM2QzYjg0MDJhOCZjdD1n/ApDBoGtAj4TIuFZ7Hr/giphy.gif"/>
 
 ## Ing en Sistemas  
 
@@ -27,6 +27,7 @@
 [<img align="left" alt="bilgehangecici | LinkedIn" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
+
 <br />
 
 ---
@@ -46,11 +47,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![LINUX](http://img.shields.io/badge/-linux-5391FE?style=flat-square&logo=linux&logoColor=ffffff)
-
 <br/>
 
 ---
-
 
   <h2 align="center"> Github estadisticas 📈 </h2>
   
