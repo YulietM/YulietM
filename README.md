@@ -13,7 +13,10 @@
 
 <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+
+
 ### Escuchando en Spotify ahora ❤️🎶
+
 
 
 <img src="https://spotify-now-playing-bbqjojmhd-yulietm.vercel.app/api">
