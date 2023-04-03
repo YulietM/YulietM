@@ -1,6 +1,6 @@
 # Hola, soy Yuliet <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<<img align="right" alt="GIF" height="203px" src="https://media.giphy.com/media/g3xQM3aCOLiEUkKk7I/giphy.gif" />
+<img align="right" alt="GIF" height="203px" src="https://media.giphy.com/media/g3xQM3aCOLiEUkKk7I/giphy.gif" />
 
 
 ## Ing en Sistemas  
