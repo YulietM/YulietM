@@ -5,9 +5,9 @@
 
 ## Ing en Sistemas  
 
-- 👨‍💻 Actualmente estoy finalizando mi carrera como Ing en Sistemas
+- 👨‍💻 Ing en Sistemas
 - 📚 todos los dias sigo aprendiendo sobre las tecnologias Frontend y Backend 😅
-- 💪🏼 Nuevos objetivos: aprender mas y no dejar de desarrollar ideas.
+- 💪🏼 Nuevos objetivos: no dejar de desarrollar ideas.
 - ⚡ Dato curioso: me encanta escuchar musica y ver documentales 🎼.
 
 ---
