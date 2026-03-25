@@ -17,7 +17,7 @@
 ### Escuchando en Spotify ahora ❤️🎶
 
 
-<img src="https://spotify-now-playing-bbqjojmhd-yulietm.vercel.app/api">
+<img src="https://tunecard.online/now/66P6LP07">
   
 ---
 
